@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/woup-wip/static/css/main.91a38ad2.css",
+    "main.js": "/woup-wip/static/js/main.9ff898d7.js",
+    "service-worker.js": "/woup-wip/service-worker.js",
+    "index.html": "/woup-wip/index.html",
+    "main.91a38ad2.css.map": "/woup-wip/static/css/main.91a38ad2.css.map",
+    "main.9ff898d7.js.map": "/woup-wip/static/js/main.9ff898d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91a38ad2.css",
+    "static/js/main.9ff898d7.js"
+  ]
+}
